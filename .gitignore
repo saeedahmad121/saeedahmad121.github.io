@@ -1,0 +1,18 @@
+# Folders to ignore
+/node_modules
+/dist
+/build
+
+# Files to ignore
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
+
+# IDE specific files
+.vscode
+.idea
+
+# Temporary files
+*.tmp
+*~
